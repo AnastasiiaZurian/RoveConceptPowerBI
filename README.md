@@ -17,13 +17,13 @@ performance monitoring.
 
 ## Table of Content
 
-- [Problem Statement](#problem-statement)
-- [Data Source](#data-source)
-- [Tools & Tech Stack](#tools--tech-stack)
-- [Dashboard Overview](#dashboard-overview)
-- [DAX Code — Key Measures](#dax-code--key-measures)
-- [Insights](#insights)
-- [Recommendations](#recommendations)
+ [Problem Statement](#problem-statement)
+ [Data Source](#data-source)
+ [Tools & Tech Stack](#tools--tech-stack)
+ [Dashboard Overview](#dashboard-overview)
+ [DAX Code — Key Measures](#dax-code--key-measures)
+ [Insights](#insights)
+ [Recommendations](#recommendations)
 ## Problem Statement
 
 Rove Concepts is a premium furniture brand operating across the USA, Canada, and emerging 
