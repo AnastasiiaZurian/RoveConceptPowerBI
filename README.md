@@ -6,10 +6,8 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 This Power BI dashboard delivers a real-time executive view of Rove Concepts' marketing 
-performance — tracking revenue, spend efficiency, customer acquisition costs, and geographic 
-growth across all channels. I designed it to answer the most critical marketing questions in 
-under 10 seconds: where is revenue coming from, where is it growing, and what is it costing 
-to acquire new customers.
+performance - tracking revenue, spend efficiency, customer acquisition costs, and geographic 
+growth across all channels. 
 
 The dashboard connects directly to a Snowflake data warehouse via a star schema model and 
 covers a rolling 2-year period, enabling both year-over-year trend analysis and current 
