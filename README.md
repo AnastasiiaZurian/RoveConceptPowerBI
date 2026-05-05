@@ -61,7 +61,7 @@ The dataset covers a rolling 2-year period and contains ~66,000+ rows across all
 
 <img src="Star_schema.png" width="600"/>
 
-### Tools & Tech Stack
+### Tools
 
 | Tool | Purpose |
 |---|---|
@@ -71,3 +71,41 @@ The dataset covers a rolling 2-year period and contains ~66,000+ rows across all
 | **SQL** | Data extraction and transformation from Snowflake prior to Power BI import |
 | **Power Query** | Data cleaning and shaping within Power BI |
 
+## Dashboard Overview
+
+**Dashboard Name:** Executive Marketing Overview
+**Data Period:** Rolling 2 years + Current YTD
+**Filters:** Year, Channel, Country
+---
+### Dashboard in Action
+
+![Dashboard Demo](assets/dashboard_demo.gif)
+
+*Filters update all visuals in real time — switch between years, channels, 
+and geographies to instantly compare performance.*
+
+---
+
+**2024 — Base Year**
+<img src="assets/dashboard_2024.png" width="700"/>
+
+**2025 — Current Year**
+<img src="assets/dashboard_2025.png" width="700"/>
+
+---
+
+### Layout & Visuals Explained
+
+The dashboard is structured as a single-page layout with three filter slicers at the top 
+(Year, Channel, Country) and six visual sections below.
+
+| Section | Visual Type | What It Shows |
+|---|---|---|
+| KPI Cards | Cards | Total Revenue, Total Spend, MER, ROAS, New Customers, CAC |
+| Revenue and Spend by Channels | Clustered Column Chart | Revenue vs. Spend side-by-side per channel |
+| ROAS by Channel | Bar Chart | Return on ad spend ranked by channel — Email consistently leads |
+| Channel Performance Summary | Table | Revenue, Spend, MER, CAC, CPC, CTR per channel in one view |
+| New Customers and CAC by Channel | Combo Chart | Acquisition volume vs. cost — identifies most efficient channels |
+| YoY Growth % by Country and Channel | Bar Chart | Which markets and channels are growing or shrinking year over year |
+| Revenue by Country and Channel | Clustered Bar Chart | Absolute revenue breakdown: USA vs. CA vs. Other, by channel |
+| Showroom vs. Non-Showroom | Summary Table | Revenue, Customers, and ARPU split by showroom presence |
