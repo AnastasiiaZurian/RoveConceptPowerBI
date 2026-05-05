@@ -13,8 +13,6 @@ The dashboard connects directly to a Snowflake data warehouse via a star schema 
 covers a rolling 2-year period, enabling both year-over-year trend analysis and current 
 performance monitoring.
 
----
-
 ## Table of Content
 
 - [Problem Statement](#problem-statement)
