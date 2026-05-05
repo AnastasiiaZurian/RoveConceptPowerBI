@@ -79,10 +79,10 @@ The dataset covers a rolling 2-year period and contains ~66,000+ rows across all
 *Filters update all visuals in real time — switch between years, channels, 
 and geographies to instantly compare performance.*
 
-**2024 — Base Year**
+**2024 — Base Year**  
 <img src="dashboard_2024.png" width="700"/>
 
-**2025 - Next Year**
+**2025 - Next Year**  
 <img src="dashboard_2025.png" width="700"/>
 
 ### Layout & Visuals Explained
