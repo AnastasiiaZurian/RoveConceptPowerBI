@@ -15,7 +15,7 @@ performance monitoring.
 
 ---
 
-## Table of Contents
+## Table of Content
 
 - [Problem Statement](#problem-statement)
 - [Data Source](#data-source)
@@ -24,3 +24,22 @@ performance monitoring.
 - [DAX Code — Key Measures](#dax-code--key-measures)
 - [Insights](#insights)
 - [Recommendations](#recommendations)
+## Problem Statement
+
+Rove Concepts is a premium furniture brand operating across the USA, Canada, and emerging 
+international markets, running an annual Membership program alongside a multi-channel 
+marketing strategy.
+
+With spend distributed across channels (Paid Social, Search, Email, Organic, Host 
+Program, and Showroom) and revenue data sitting in Snowflake, there was no fast way to 
+answer the questions that mattered most.
+
+The dashboard designed to give executives and marketing managers immediate answers to:
+
+- Which channels are driving the most revenue — and at what efficiency (MER / ROAS)?
+- Where are we growing or shrinking year over year, by geography and channel?
+- What does it cost to acquire a new customer, overall and by channel?
+- Are showroom cities outperforming non-showroom cities on revenue and customer metrics?
+
+The dashboard enables filter by date range, channel, and geography and have every metric update in real time, 
+so budget and investment decisions are always grounded in current data.
