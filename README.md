@@ -74,7 +74,9 @@ The dataset covers a rolling 2-year period and contains ~66,000+ rows across all
 ## Dashboard Overview  
 ### Dashboard in Action
 
-![Dashboard Demo](dashboard_demo.gif)
+### Dashboard in Action
+
+<img src="dashboard_demo.gif" width="700"/>
 
 *Filters update all visuals in real time — switch between years, channels, 
 and geographies to instantly compare performance.*
