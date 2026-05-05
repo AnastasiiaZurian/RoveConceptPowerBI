@@ -71,7 +71,7 @@ The dataset covers a rolling 2-year period and contains ~66,000+ rows across all
 | **SQL** | Data extraction and transformation from Snowflake prior to Power BI import |
 | **Power Query** | Data cleaning and shaping within Power BI |
 
-## Dashboard Overview
+## Dashboard Overview  
 
 **Dashboard Name:** Executive Marketing Overview
 **Data Period:** Rolling 2 years + Current YTD
