@@ -61,7 +61,7 @@ The dataset covers a rolling 2-year period and contains ~66,000+ rows across all
 
 <img src="Star_schema.png" width="600"/>
 
-##### Tools & Tech Stack
+### Tools & Tech Stack
 
 | Tool | Purpose |
 |---|---|
