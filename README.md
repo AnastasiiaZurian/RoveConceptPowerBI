@@ -60,3 +60,13 @@ The dataset covers a rolling 2-year period and contains ~66,000+ rows across all
 ### Star Schema
 
 <img src="Star_schema.png" width="600"/>
+## Tools & Tech Stack
+
+| Tool | Purpose |
+|---|---|
+| **Power BI Desktop** | Dashboard development, data modeling, and interactive visualizations |
+| **Snowflake** | Cloud data warehouse — single source of truth for all transactional and spend data |
+| **DAX** | Calculated measures and KPIs (MER, ROAS, CAC, YoY Growth, New Customers) |
+| **SQL** | Data extraction and transformation from Snowflake prior to Power BI import |
+| **Power Query** | Data cleaning and shaping within Power BI |
+
