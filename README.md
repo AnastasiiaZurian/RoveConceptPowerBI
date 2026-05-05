@@ -59,4 +59,4 @@ The dataset covers a rolling 2-year period and contains ~66,000+ rows across all
 
 ### Star Schema
 
-![Star Schema](Star_schema.png)
+<img src="star_schema.png" width="600"/>
