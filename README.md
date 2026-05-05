@@ -82,10 +82,10 @@ and geographies to instantly compare performance.*
 ---
 
 **2024 — Base Year**
-<img src="assets/dashboard_2024.png" width="700"/>
+<img src="dashboard_2024.png" width="700"/>
 
 **2025 — Current Year**
-<img src="assets/dashboard_2025.png" width="700"/>
+<img src="dashboard_2025.png" width="700"/>
 
 ---
 
