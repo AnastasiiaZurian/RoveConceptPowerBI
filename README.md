@@ -134,8 +134,6 @@ geography category dominated YoY growth % across all channels, driven by a low 2
 baseline. While the USA remains the primary revenue engine, these markets signal 
 strong untapped potential.
 
----
-
 ### Recommendations
 
 | # | Finding | Recommendation | Expected Impact |
@@ -145,8 +143,6 @@ strong untapped potential.
 | 3 | USA market showing signs of saturation | Shift USA strategy from acquisition to retention and LTV maximization — loyalty programs, personalized re-engagement | Stabilized revenue from core market; improved member retention |
 | 4 | "Other" geographies growing at 40–70% YoY across channels | Allocate a dedicated expansion budget to emerging international markets | Accelerated revenue growth outside saturated primary markets |
 | 5 | Showroom ARPU ($3,329) significantly trails Non-Showroom ($4,601) | Reevaluate showroom upselling tactics, in-store experience, and real estate ROI | Improved revenue per showroom customer; better justification of physical footprint costs |
-
----
 
 ### Next Steps
 
