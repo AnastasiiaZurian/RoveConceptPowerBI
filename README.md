@@ -20,7 +20,7 @@ performance monitoring.
 - [Tools & Tech Stack](#tools--tech-stack)
 - [Dashboard Overview](#dashboard-overview)
 - [DAX Code — Key Measures](#dax-code--key-measures)
-- [Insights & Recommendations](#insight #recommendationss)
+- [Insights & Recommendations](#insights--recommendations)
   
 ## Problem Statement
 
