@@ -34,7 +34,7 @@ answer the questions that mattered most.
 
 The dashboard designed to give executives and marketing managers immediate answers to:
 
-- Which channels are driving the most revenue — and at what efficiency (MER / ROAS)?
+- Which channels are driving the most revenue and at what efficiency (MER / ROAS)?
 - Where are we growing or shrinking year over year, by geography and channel?
 - What does it cost to acquire a new customer, overall and by channel?
 - Are showroom cities outperforming non-showroom cities on revenue and customer metrics?
@@ -66,7 +66,7 @@ The dataset covers a rolling 2-year period and contains ~66,000+ rows across all
 | Tool | Purpose |
 |---|---|
 | **Power BI Desktop** | Dashboard development, data modeling, and interactive visualizations |
-| **Snowflake** | Cloud data warehouse — single source of truth for all transactional and spend data |
+| **Snowflake** | Cloud data warehouse - single source of truth for all transactional and spend data |
 | **DAX** | Calculated measures and KPIs (MER, ROAS, CAC, YoY Growth, New Customers) |
 | **SQL** | Data extraction and transformation from Snowflake prior to Power BI import |
 | **Power Query** | Data cleaning and shaping within Power BI |
@@ -112,19 +112,19 @@ The following findings are based on a two-year analysis (2024–2025) of Rove Co
 marketing performance across channels, geographies, and customer segments.
 
 - **Revenue scaled significantly while maintaining efficiency.** Total revenue grew 16.5% 
-from $54.42M to $63.43M, while MER remained stable at 17.26 — meaning the business 
+from $54.42M to $63.43M, while MER remained stable at 17.26 - meaning the business 
 generated over $17 in revenue for every $1 spent on marketing.
 
 - **Email is the highest-efficiency channel.** With an MER of 19.64 in 2025, Email 
-delivered $9.38M in revenue on just $480K in spend — the strongest return of any paid 
+delivered $9.38M in revenue on just $480K in spend - the strongest return of any paid 
 channel, yet it remains underleveraged relative to Paid Social.
 
 - **Paid Social drives the most absolute revenue.** Growing from $16.40M to $19.27M YoY 
-with a consistent MER of ~10, Paid Social is the volume leader — CTR also improved 
+with a consistent MER of ~10, Paid Social is the volume leader - CTR also improved 
 from 3.73% to 5.01%, signaling stronger creative or audience performance.
 
 - **New customer acquisition collapsed in 2025.** Reported new customers dropped from 
-6,977 to just 346 — a 95% decline. As a result, blended CAC exploded from $437 to 
+6,977 to just 346 - a 95% decline. As a result, blended CAC exploded from $437 to 
 $10.62K. The data suggests 2025 revenue was overwhelmingly driven by repeat purchases 
 from the existing customer base, pointing to possible market saturation or a data 
 tracking issue requiring immediate audit.
@@ -142,7 +142,7 @@ strong untapped potential.
 
 | # | Finding | Recommendation | Expected Impact |
 |---|---|---|---|
-| 1 | Email MER of 19.64 — highest of all channels, yet underleveraged | Aggressively scale email list growth and invest in lifecycle marketing sequences | Higher revenue per marketing dollar; reduced reliance on paid channels |
+| 1 | Email MER of 19.64 - highest of all channels, yet underleveraged | Aggressively scale email list growth and invest in lifecycle marketing sequences | Higher revenue per marketing dollar; reduced reliance on paid channels |
 | 2 | New customer acquisition dropped 95% YoY | Immediately audit acquisition tracking for data integrity; if confirmed, launch dedicated re-acquisition campaigns in new geographies | Restored visibility into true CAC; identification of scalable acquisition levers |
 | 3 | USA market showing signs of saturation | Shift USA strategy from acquisition to retention and LTV maximization — loyalty programs, personalized re-engagement | Stabilized revenue from core market; improved member retention |
 | 4 | "Other" geographies growing at 40–70% YoY across channels | Allocate a dedicated expansion budget to emerging international markets | Accelerated revenue growth outside saturated primary markets |
@@ -150,9 +150,9 @@ strong untapped potential.
 
 ### Next Steps
 
-1. **Audit new customer data** — investigate the 95% drop in reported new customers 
+1. **Audit new customer data** - investigate the 95% drop in reported new customers 
 before making any acquisition budget decisions based on 2025 CAC figures.
-2. **Build an email growth roadmap** — given Email's outstanding MER, develop a 
+2. **Build an email growth roadmap** - given Email's outstanding MER, develop a 
 structured plan for list growth, segmentation, and automated lifecycle campaigns.
-3. **Model international expansion scenarios** — use the YoY growth data from "Other" 
+3. **Model international expansion scenarios** - use the YoY growth data from "Other" 
 markets to build a business case for a dedicated 2026 expansion budget.
