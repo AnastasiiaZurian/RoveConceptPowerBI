@@ -50,7 +50,7 @@ MER =
 ```
 
 **ROAS (Return on Ad Spend)**
-Same logic as MER but scoped to paid channels only — filters out organic and showroom.
+Same logic as MER but scoped to paid channels only.
 ```dax
 ROAS = 
     DIVIDE(
@@ -89,8 +89,7 @@ DIVIDE(
 ### Showroom Analysis
 **Showroom Label**
 Calculated column that classifies each geography as Showroom or Non-Showroom based 
-on the `showroom_exists` flag in `dim_geo` — used as the axis in all showroom 
-comparison visuals.
+on the `showroom_exists` flag in `dim_geo`.
 
 ```dax
 Showroom Label = 
