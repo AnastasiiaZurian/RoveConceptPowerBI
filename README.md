@@ -71,6 +71,10 @@ The dataset covers a rolling 2-year period and contains ~66,000+ rows across all
 | **SQL** | Data extraction and transformation from Snowflake prior to Power BI import |
 | **Power Query** | Data cleaning and shaping within Power BI |
 
+## DAX Code — Key Measures
+Core measures developed for this dashboard are documented here:
+👉 [View DAX Measures](dax/key_measures.md)
+
 ## Dashboard Overview  
 ### Dashboard in Action
 <img src="dashboard_demo.gif" width="700"/>
