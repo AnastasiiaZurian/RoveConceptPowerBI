@@ -17,7 +17,7 @@ performance monitoring.
 
 - [Problem Statement](#problem-statement)
 - [Data Source](#data-source)
-- [Tools & Tech Stack](#tools--tech-stack)
+- [Tools](#tools)
 - [Dashboard Overview](#dashboard-overview)
 - [DAX Code — Key Measures](#dax-code--key-measures)
 - [Insights & Recommendations](#insights--recommendations)
