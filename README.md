@@ -108,7 +108,7 @@ The dashboard is structured as a single-page layout with 3 filter slicers at the
 
 ### Key Insights
 
-The following findings are based on a two-year analysis (2024–2025) of Rove Concepts' 
+The following findings are based on a two-year analysis (2024-2025) of Rove Concepts' 
 marketing performance across channels, geographies, and customer segments.
 
 - **Revenue scaled significantly while maintaining efficiency.** Total revenue grew 16.5% 
@@ -130,7 +130,7 @@ from the existing customer base, pointing to possible market saturation or a dat
 tracking issue requiring immediate audit.
 
 - **Non-Showroom channels significantly outperform Showroom on ARPU.** Non-Showroom 
-customers generated $4,601 ARPU in 2025 vs. $3,329 for Showroom — a 38% gap — while 
+customers generated $4,601 ARPU in 2025 vs. $3,329 for Showroom a 38% gap, while 
 also accounting for the majority of total revenue ($36.8M vs. $26.6M).
 
 - **Emerging international markets show the highest growth velocity.** The "Other" 
@@ -145,7 +145,7 @@ strong untapped potential.
 | 1 | Email MER of 19.64 - highest of all channels, yet underleveraged | Aggressively scale email list growth and invest in lifecycle marketing sequences | Higher revenue per marketing dollar; reduced reliance on paid channels |
 | 2 | New customer acquisition dropped 95% YoY | Immediately audit acquisition tracking for data integrity; if confirmed, launch dedicated re-acquisition campaigns in new geographies | Restored visibility into true CAC; identification of scalable acquisition levers |
 | 3 | USA market showing signs of saturation | Shift USA strategy from acquisition to retention and LTV maximization — loyalty programs, personalized re-engagement | Stabilized revenue from core market; improved member retention |
-| 4 | "Other" geographies growing at 40–70% YoY across channels | Allocate a dedicated expansion budget to emerging international markets | Accelerated revenue growth outside saturated primary markets |
+| 4 | "Other" geographies growing at 40-70% YoY across channels | Allocate a dedicated expansion budget to emerging international markets | Accelerated revenue growth outside saturated primary markets |
 | 5 | Showroom ARPU ($3,329) significantly trails Non-Showroom ($4,601) | Reevaluate showroom upselling tactics, in-store experience, and real estate ROI | Improved revenue per showroom customer; better justification of physical footprint costs |
 
 ### Next Steps
